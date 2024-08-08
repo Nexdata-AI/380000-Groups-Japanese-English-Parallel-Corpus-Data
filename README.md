@@ -3,7 +3,7 @@
 ## Description
 Japanese and English parallel corpus, 380,000 groups in total; excluded political, porn, personal information and other sensitive vocabulary; it can be a base corpus for text-based data analysis, used in machine translation and other fields.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/153?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/nlu/153?source=Github
 
 
 # Specifications
